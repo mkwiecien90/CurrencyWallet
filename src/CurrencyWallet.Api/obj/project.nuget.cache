@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dbhAZbCkZZ0=",
+  "dgSpecHash": "lVTFD8m9wj8=",
   "success": true,
-  "projectFilePath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj",
+  "projectFilePath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Programista\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Programista\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

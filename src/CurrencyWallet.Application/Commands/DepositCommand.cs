@@ -1,7 +1,6 @@
 ﻿#region Usings
 
 using System.Text.Json.Serialization;
-using CurrencyWallet.Application.DTOs;
 using MediatR;
 
 #endregion
@@ -11,7 +10,7 @@ namespace CurrencyWallet.Application.Commands
     public class DepositCommand : IRequest<bool>
     {
         [JsonIgnore]
-        public Guid WalletId { get; set; }
+        public Guid WalletId { get; private set; }
         public string Currency { get; set; }
         public decimal Amount { get; set; }
 
@@ -20,6 +19,11 @@ namespace CurrencyWallet.Application.Commands
             WalletId = walletId;
             Currency = currency;
             Amount = amount;
+        }
+
+        public void SetWalletId(Guid id)
+        {
+            WalletId = id;
         }
     }
 }

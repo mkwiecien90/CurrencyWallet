@@ -117,3 +117,4 @@ D:\CurrencyWallet\src\CurrencyWallet.Api\bin\Debug\net8.0\FluentValidation.dll
 D:\CurrencyWallet\src\CurrencyWallet.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\CurrencyWallet\src\CurrencyWallet.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\CurrencyWallet\src\CurrencyWallet.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\CurrencyWallet\src\CurrencyWallet.Api\obj\Debug\net8.0\CurrencyWallet.Api.sourcelink.json

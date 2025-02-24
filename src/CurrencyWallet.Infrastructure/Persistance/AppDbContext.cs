@@ -17,9 +17,13 @@ namespace CurrencyWallet.Infrastructure.Persistance
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Wallet>()
-            .OwnsMany(w => w.Balances, b =>
+            .OwnsMany(w => w.Balances, balances =>
             {
-                b.WithOwner();
+                balances.OwnsOne(b => b.Money, money =>
+                {
+                    money.Property(m => m.Amount).HasColumnName("Amount");
+                    money.Property(m => m.Currency).HasColumnName("Currency");
+                });
             });
 
             base.OnModelCreating(modelBuilder);

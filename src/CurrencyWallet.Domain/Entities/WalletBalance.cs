@@ -7,6 +7,10 @@ namespace CurrencyWallet.Domain.Entities
     {
         public Money Money { get; set; }
 
+        // For EF Core
+        private WalletBalance() { }
+
+
         public WalletBalance(Money money) 
         {
             Money = money;
