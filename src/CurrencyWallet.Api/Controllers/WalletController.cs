@@ -29,9 +29,9 @@ namespace CurrencyWallet.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<WalletViewModel> GetWallet([FromQuery] GetWalletQuery query)
+        public async Task<WalletViewModel> GetWallet(Guid id)
         {
-            return await _mediator.Send(query);
+            return await _mediator.Send(new GetWalletQuery(id));
         }
 
         [HttpGet]
@@ -44,7 +44,7 @@ namespace CurrencyWallet.Api.Controllers
         [HttpPost("{id}/deposit")]
         public async Task<IActionResult> DepositToWallet(Guid id, [FromBody] DepositCommand command)
         {
-            command.WalletId = id;
+            command.SetWalletId(id);
             await _mediator.Send(command);
             return Ok("Deposit successful.");
         }
@@ -52,7 +52,7 @@ namespace CurrencyWallet.Api.Controllers
         [HttpPost("{id}/withdraw")]
         public async Task<IActionResult> WithdrawFromWallet(Guid id, [FromBody] WithdrawCommand command)
         {
-            command.WalletId = id;
+            command.SetWalletId(id);
             await _mediator.Send(command);
             return Ok("Withdrawal successful.");
         }
@@ -60,14 +60,15 @@ namespace CurrencyWallet.Api.Controllers
         [HttpPost("{id}/convert")]
         public async Task<IActionResult> ConvertCurrency(Guid id, [FromBody] ConvertCurrencyCommand command)
         {
+            command.SetWalletId(id);
             await _mediator.Send(command);
             return Ok("Currency conversion successful.");
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteWallet([FromQuery] DeleteWalletCommand command)
+        public async Task<IActionResult> DeleteWallet(Guid id)
         {
-            await _mediator.Send(command);
+            await _mediator.Send(new DeleteWalletCommand(id));
             return Ok("Wallet is deleted.");
         }
     }

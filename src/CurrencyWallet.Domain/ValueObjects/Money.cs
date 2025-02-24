@@ -5,6 +5,9 @@
         public decimal Amount { get; }
         public string Currency { get; }
 
+        // For EF Core
+        private Money() { }
+
         public Money(decimal amount, string currency)
         {
             if (amount < 0)

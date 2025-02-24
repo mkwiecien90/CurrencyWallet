@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj": {}
+    "D:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj": {}
   },
   "projects": {
-    "d:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj": {
+    "D:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj",
+        "projectUniqueName": "D:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj",
         "projectName": "CurrencyWallet.Api",
-        "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj",
+        "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Api\\CurrencyWallet.Api.csproj",
         "packagesPath": "C:\\Users\\Programista\\.nuget\\packages\\",
-        "outputPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Api\\obj\\",
+        "outputPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\NuGet.Config",
+          "D:\\NuGet.Config",
           "C:\\Users\\Programista\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
-                "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj"
+              "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
+                "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj"
               },
-              "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj": {
-                "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj"
+              "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj": {
+                "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj"
               }
             }
           }
@@ -109,17 +109,17 @@
         }
       }
     },
-    "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
+    "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj",
+        "projectUniqueName": "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj",
         "projectName": "CurrencyWallet.Application",
-        "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj",
+        "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj",
         "packagesPath": "C:\\Users\\Programista\\.nuget\\packages\\",
-        "outputPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\obj\\",
+        "outputPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\NuGet.Config",
+          "D:\\NuGet.Config",
           "C:\\Users\\Programista\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -134,8 +134,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
-                "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj"
+              "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
+                "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj"
               }
             }
           }
@@ -204,17 +204,17 @@
         }
       }
     },
-    "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
+    "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
+        "projectUniqueName": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
         "projectName": "CurrencyWallet.Domain",
-        "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
+        "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
         "packagesPath": "C:\\Users\\Programista\\.nuget\\packages\\",
-        "outputPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\obj\\",
+        "outputPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\NuGet.Config",
+          "D:\\NuGet.Config",
           "C:\\Users\\Programista\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -265,17 +265,17 @@
         }
       }
     },
-    "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj": {
+    "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj",
+        "projectUniqueName": "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj",
         "projectName": "CurrencyWallet.Infrastructure",
-        "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj",
+        "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Programista\\.nuget\\packages\\",
-        "outputPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\obj\\",
+        "outputPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\NuGet.Config",
+          "D:\\NuGet.Config",
           "C:\\Users\\Programista\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -290,11 +290,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
-                "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj"
+              "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
+                "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj"
               },
-              "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
-                "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj"
+              "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
+                "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj"
               }
             }
           }

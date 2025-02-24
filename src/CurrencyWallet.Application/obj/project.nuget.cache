@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c6rpRUUxSgI=",
+  "dgSpecHash": "U6T3GpPJXeU=",
   "success": true,
-  "projectFilePath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj",
+  "projectFilePath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Programista\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Programista\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

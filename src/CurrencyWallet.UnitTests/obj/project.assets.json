@@ -4586,14 +4586,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\CurrencyWallet\\src\\CurrencyWallet.UnitTests\\CurrencyWallet.UnitTests.csproj",
+      "projectUniqueName": "D:\\CurrencyWallet\\src\\CurrencyWallet.UnitTests\\CurrencyWallet.UnitTests.csproj",
       "projectName": "CurrencyWallet.UnitTests",
-      "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.UnitTests\\CurrencyWallet.UnitTests.csproj",
+      "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.UnitTests\\CurrencyWallet.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Programista\\.nuget\\packages\\",
-      "outputPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.UnitTests\\obj\\",
+      "outputPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "d:\\NuGet.Config",
+        "D:\\NuGet.Config",
         "C:\\Users\\Programista\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4608,14 +4608,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
-              "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj"
+            "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj": {
+              "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Application\\CurrencyWallet.Application.csproj"
             },
-            "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
-              "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj"
+            "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
+              "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj"
             },
-            "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj": {
-              "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj"
+            "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj": {
+              "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Infrastructure\\CurrencyWallet.Infrastructure.csproj"
             }
           }
         }

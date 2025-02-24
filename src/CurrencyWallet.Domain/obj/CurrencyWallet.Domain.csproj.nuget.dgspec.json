@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {}
+    "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {}
   },
   "projects": {
-    "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
+    "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
+        "projectUniqueName": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
         "projectName": "CurrencyWallet.Domain",
-        "projectPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
+        "projectPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\CurrencyWallet.Domain.csproj",
         "packagesPath": "C:\\Users\\Programista\\.nuget\\packages\\",
-        "outputPath": "d:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\obj\\",
+        "outputPath": "D:\\CurrencyWallet\\src\\CurrencyWallet.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\NuGet.Config",
+          "D:\\NuGet.Config",
           "C:\\Users\\Programista\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
