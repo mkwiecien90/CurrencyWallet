@@ -1,0 +1,520 @@
+2025-02-23 13:21:10.550 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:21:10.587 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:21:19.690 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:21:25.896 +01:00 [ERR] BackgroundService failed
+CurrencyWallet.Domain.Exceptions.BadRequestException: bad request test
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:21:25.927 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+CurrencyWallet.Domain.Exceptions.BadRequestException: bad request test
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:22:04.013 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:22:04.035 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:22:28.461 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:22:42.849 +01:00 [ERR] BackgroundService failed
+CurrencyWallet.Domain.Exceptions.BadRequestException: bad request test
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:22:42.861 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+CurrencyWallet.Domain.Exceptions.BadRequestException: bad request test
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:30:27.093 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:30:27.143 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:30:45.209 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:30:53.838 +01:00 [ERR] BackgroundService failed
+CurrencyWallet.Domain.Exceptions.BadRequestException: bad request test
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:30:53.850 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+CurrencyWallet.Domain.Exceptions.BadRequestException: bad request test
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:32:59.925 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:32:59.962 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:33:02.997 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:33:03.296 +01:00 [ERR] BackgroundService failed
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:33:03.321 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:33:22.934 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:33:22.961 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:33:29.529 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:33:33.800 +01:00 [ERR] BackgroundService failed
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:33:33.814 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:36:39.041 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:36:39.069 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:36:44.577 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:36:49.744 +01:00 [ERR] BackgroundService failed
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:36:49.758 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:39:24.802 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:39:24.830 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:39:31.905 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:39:36.207 +01:00 [ERR] BackgroundService failed
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:39:36.229 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 48
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2025-02-23 13:55:34.003 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:55:34.032 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:55:53.990 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:56:22.551 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:56:22.585 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:56:31.210 +01:00 [ERR] Unhandled exception occurred.
+System.Exception: This is a test exception!
+   at CurrencyWallet.Application.Services.CurrencyService.ExecuteAsync(CancellationToken stoppingToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Services\CurrencyService.cs:line 46
+2025-02-23 13:56:36.481 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:58:12.271 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:58:12.328 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:58:21.055 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 13:59:07.270 +01:00 [ERR] Unhandled exception occurred.
+System.Exception: This is a test exception!
+   at CurrencyWallet.Api.Controllers.WalletController.Get() in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 16
+   at lambda_method73(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 13:59:27.580 +01:00 [ERR] HTTP GET /api/Wallet responded 500 in 30878.8483 ms
+2025-02-23 13:59:58.126 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 13:59:58.155 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 14:00:03.167 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 14:00:16.041 +01:00 [ERR] Unhandled exception occurred.
+CurrencyWallet.Domain.Exceptions.BadRequestException: bad request test
+   at CurrencyWallet.Api.Controllers.WalletController.Get() in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 17
+   at lambda_method73(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 15:37:28.474 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:37:28.515 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:37:30.534 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 15:38:29.296 +01:00 [ERR] Unhandled exception occurred.
+System.InvalidOperationException: Unable to resolve service for type 'MediatR.IMediator' while attempting to activate 'CurrencyWallet.Api.Controllers.WalletController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method79(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 15:41:20.702 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:41:20.734 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:41:22.384 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 15:43:30.164 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:43:30.199 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:43:30.780 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 15:48:42.141 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:48:42.247 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:48:42.937 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 15:49:41.797 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:49:41.836 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:49:42.947 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 15:52:30.237 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:52:30.308 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 15:52:31.597 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 16:00:14.328 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:00:14.429 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:00:17.208 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 16:16:23.916 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:16:23.943 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:16:25.276 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 16:44:07.759 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:44:07.798 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:44:09.366 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 16:47:36.386 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:47:36.432 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:47:38.191 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 16:47:54.911 +01:00 [ERR] Unhandled exception occurred.
+CurrencyWallet.Domain.Exceptions.BadRequestException: Wallet name is required.
+   at CurrencyWallet.Api.Controllers.WalletController.CreateWallet(CreateWalletCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 30
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 16:49:52.151 +01:00 [ERR] Unhandled exception occurred.
+CurrencyWallet.Domain.Exceptions.BadRequestException: Wallet name is required.
+   at CurrencyWallet.Api.Controllers.WalletController.CreateWallet(CreateWalletCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 30
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 16:51:04.506 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:51:04.538 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:51:05.070 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 16:53:29.911 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:53:29.943 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:53:30.426 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 16:53:38.713 +01:00 [ERR] Unhandled exception occurred.
+FluentValidation.ValidationException: Validation failed: 
+ -- Name: Wallet name is required. Severity: Error
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 29
+   at CurrencyWallet.Api.Controllers.WalletController.CreateWallet(CreateWalletCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 28
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 16:53:38.764 +01:00 [ERR] HTTP POST /api/wallet responded 500 in 313.4030 ms
+2025-02-23 16:54:11.467 +01:00 [ERR] Unhandled exception occurred.
+FluentValidation.ValidationException: Validation failed: 
+ -- Name: Wallet name cannot exceed 50 characters. Severity: Error
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 29
+   at CurrencyWallet.Api.Controllers.WalletController.CreateWallet(CreateWalletCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 28
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 16:54:11.474 +01:00 [ERR] HTTP POST /api/wallet responded 500 in 85.4403 ms
+2025-02-23 16:59:54.525 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:59:54.552 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 16:59:55.094 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 17:00:03.066 +01:00 [ERR] Unhandled exception occurred.
+FluentValidation.ValidationException: Validation failed: 
+ -- WalletId: WalletId is required. Severity: Error
+ -- WalletId: WalletId cannot be an empty GUID. Severity: Error
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 29
+   at CurrencyWallet.Api.Controllers.WalletController.GetWallet(Guid id) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 35
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 17:00:03.111 +01:00 [ERR] HTTP GET /api/wallet responded 500 in 256.7044 ms
+2025-02-23 17:17:19.422 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:17:19.462 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:17:20.720 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 17:18:04.073 +01:00 [ERR] Unhandled exception occurred.
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[CurrencyWallet.Domain.Entities.Wallet, CurrencyWallet.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[CurrencyWallet.Application.DTOs.WalletViewModel, CurrencyWallet.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Wallet -> WalletViewModel
+CurrencyWallet.Domain.Entities.Wallet -> CurrencyWallet.Application.DTOs.WalletViewModel
+   at lambda_method146(Closure, Wallet, WalletViewModel, ResolutionContext)
+   at lambda_method145(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method145(Closure, Object, IEnumerable`1, ResolutionContext)
+   at CurrencyWallet.Application.Handlers.Queries.GetAllWalletsQueryHandler.Handle(GetAllWalletsQuery request, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Handlers\Queries\GetAllWalletsQueryHandler.cs:line 29
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 31
+   at CurrencyWallet.Api.Controllers.WalletController.GetWallets() in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 42
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 17:18:04.132 +01:00 [ERR] HTTP GET /api/wallet responded 500 in 597.0837 ms
+2025-02-23 17:20:02.587 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:20:02.629 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:20:03.191 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 17:20:18.226 +01:00 [ERR] Unhandled exception occurred.
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[CurrencyWallet.Domain.Entities.Wallet, CurrencyWallet.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[CurrencyWallet.Application.DTOs.WalletViewModel, CurrencyWallet.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Wallet -> WalletViewModel
+CurrencyWallet.Domain.Entities.Wallet -> CurrencyWallet.Application.DTOs.WalletViewModel
+   at lambda_method146(Closure, Wallet, WalletViewModel, ResolutionContext)
+   at lambda_method145(Closure, Object, IEnumerable`1, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method145(Closure, Object, IEnumerable`1, ResolutionContext)
+   at CurrencyWallet.Application.Handlers.Queries.GetAllWalletsQueryHandler.Handle(GetAllWalletsQuery request, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Handlers\Queries\GetAllWalletsQueryHandler.cs:line 29
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 31
+   at CurrencyWallet.Api.Controllers.WalletController.GetWallets() in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 42
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 17:20:18.274 +01:00 [ERR] HTTP GET /api/wallet responded 500 in 686.1869 ms
+2025-02-23 17:21:30.124 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:21:30.159 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:21:30.692 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 17:21:38.928 +01:00 [ERR] Unhandled exception occurred.
+AutoMapper.AutoMapperMappingException: Cannot create interface System.Collections.Generic.IEnumerable`1[CurrencyWallet.Application.DTOs.WalletViewModel]
+
+Mapping types:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[CurrencyWallet.Domain.Entities.Wallet, CurrencyWallet.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[CurrencyWallet.Application.DTOs.WalletViewModel, CurrencyWallet.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+
+Type Map configuration:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[CurrencyWallet.Domain.Entities.Wallet, CurrencyWallet.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[CurrencyWallet.Application.DTOs.WalletViewModel, CurrencyWallet.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+   at lambda_method145(Closure, Object, IEnumerable`1, ResolutionContext)
+   at CurrencyWallet.Application.Handlers.Queries.GetAllWalletsQueryHandler.Handle(GetAllWalletsQuery request, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Handlers\Queries\GetAllWalletsQueryHandler.cs:line 29
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 31
+   at CurrencyWallet.Api.Controllers.WalletController.GetWallets() in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 42
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 17:21:38.990 +01:00 [ERR] HTTP GET /api/wallet responded 500 in 791.0319 ms
+2025-02-23 17:23:38.184 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:23:38.213 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:23:38.692 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 17:25:24.532 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:25:24.563 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 17:25:26.245 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:00:17.062 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:00:17.094 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:00:18.541 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:03:42.648 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:03:42.677 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:03:43.284 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:07:06.703 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:07:06.737 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:07:07.246 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:07:55.381 +01:00 [ERR] Unhandled exception occurred.
+FluentValidation.ValidationException: Validation failed: 
+ -- Currency: The specified currency is not available. Severity: Error
+ -- Amount: The amount must be greater than zero. Severity: Error
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 29
+   at CurrencyWallet.Api.Controllers.WalletController.DepositToWallet(Guid id, DepositCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 19:07:55.422 +01:00 [ERR] HTTP POST /api/wallet/FD92AA3C-11C7-4BB3-9B79-A98CDD8EB3D3/deposit responded 500 in 43625.6843 ms
+2025-02-23 19:08:43.040 +01:00 [ERR] Unhandled exception occurred.
+FluentValidation.ValidationException: Validation failed: 
+ -- Currency: The specified currency is not available. Severity: Error
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 29
+   at CurrencyWallet.Api.Controllers.WalletController.DepositToWallet(Guid id, DepositCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 19:08:43.050 +01:00 [ERR] HTTP POST /api/wallet/FD92AA3C-11C7-4BB3-9B79-A98CDD8EB3D3/deposit responded 500 in 9264.5662 ms
+2025-02-23 19:09:53.377 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:09:53.412 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:09:53.951 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:11:48.838 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:11:48.882 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:11:49.366 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:26:14.392 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:26:14.425 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:26:15.964 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:27:42.154 +01:00 [ERR] Unhandled exception occurred.
+CurrencyWallet.Domain.Exceptions.BadRequestException: Can not withdraw from wallet  value: 20 string.
+   at CurrencyWallet.Application.Handlers.Commands.WithdrawCommandHandler.Handle(WithdrawCommand request, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Handlers\Commands\WithdrawCommandHandler.cs:line 40
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 31
+   at CurrencyWallet.Api.Controllers.WalletController.WithdrawFromWallet(Guid id, WithdrawCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 57
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 19:28:08.058 +01:00 [ERR] Unhandled exception occurred.
+CurrencyWallet.Domain.Exceptions.BadRequestException: Can not withdraw from wallet  value: 20 string.
+   at CurrencyWallet.Application.Handlers.Commands.WithdrawCommandHandler.Handle(WithdrawCommand request, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Handlers\Commands\WithdrawCommandHandler.cs:line 40
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 31
+   at CurrencyWallet.Api.Controllers.WalletController.WithdrawFromWallet(Guid id, WithdrawCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 57
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 19:28:32.340 +01:00 [WRN] No store type was specified for the decimal property 'Mid' on entity type 'CurrencyRate'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:28:32.378 +01:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'WalletBalance'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-23 19:28:32.928 +01:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-23 19:30:18.138 +01:00 [ERR] Unhandled exception occurred.
+FluentValidation.ValidationException: Validation failed: 
+ -- Currency: The specified currency is not available. Severity: Error
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 29
+   at CurrencyWallet.Api.Controllers.WalletController.WithdrawFromWallet(Guid id, WithdrawCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 57
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 19:30:18.207 +01:00 [ERR] HTTP POST /api/wallet/FD92AA3C-11C7-4BB3-9B79-A98CDD8EB3D3/withdraw responded 500 in 4551.8301 ms
+2025-02-23 19:30:46.793 +01:00 [ERR] Unhandled exception occurred.
+CurrencyWallet.Domain.Exceptions.BadRequestException: Can not withdraw from wallet  value: 20 KWD.
+   at CurrencyWallet.Application.Handlers.Commands.WithdrawCommandHandler.Handle(WithdrawCommand request, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Handlers\Commands\WithdrawCommandHandler.cs:line 40
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 31
+   at CurrencyWallet.Api.Controllers.WalletController.WithdrawFromWallet(Guid id, WithdrawCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 57
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27
+2025-02-23 19:32:47.429 +01:00 [ERR] Unhandled exception occurred.
+CurrencyWallet.Domain.Exceptions.BadRequestException: Can not withdraw from wallet  value: 14 KWD.
+   at CurrencyWallet.Application.Handlers.Commands.WithdrawCommandHandler.Handle(WithdrawCommand request, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Handlers\Commands\WithdrawCommandHandler.cs:line 40
+   at CurrencyWallet.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in D:\CurrencyWallet\src\CurrencyWallet.Application\Behaviors\ValidationBehavior.cs:line 31
+   at CurrencyWallet.Api.Controllers.WalletController.WithdrawFromWallet(Guid id, WithdrawCommand command) in D:\CurrencyWallet\src\CurrencyWallet.Api\Controllers\WalletController.cs:line 57
+   at lambda_method75(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at CurrencyWallet.Api.Middlewares.ExceptionHandlingMiddleware.Invoke(HttpContext context) in D:\CurrencyWallet\src\CurrencyWallet.Api\Middlewares\ExceptionHandlingMiddleware.cs:line 27

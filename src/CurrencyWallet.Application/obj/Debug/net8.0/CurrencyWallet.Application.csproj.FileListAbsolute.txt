@@ -1,0 +1,16 @@
+D:\CurrencyWallet\src\CurrencyWallet.Application\bin\Debug\net8.0\CurrencyWallet.Application.deps.json
+D:\CurrencyWallet\src\CurrencyWallet.Application\bin\Debug\net8.0\CurrencyWallet.Application.dll
+D:\CurrencyWallet\src\CurrencyWallet.Application\bin\Debug\net8.0\CurrencyWallet.Application.pdb
+D:\CurrencyWallet\src\CurrencyWallet.Application\bin\Debug\net8.0\CurrencyWallet.Domain.dll
+D:\CurrencyWallet\src\CurrencyWallet.Application\bin\Debug\net8.0\CurrencyWallet.Domain.pdb
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.csproj.AssemblyReference.cache
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.AssemblyInfoInputs.cache
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.AssemblyInfo.cs
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.csproj.CoreCompileInputs.cache
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\Currency.60D1F447.Up2Date
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.dll
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\refint\CurrencyWallet.Application.dll
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.pdb
+D:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\ref\CurrencyWallet.Application.dll
+d:\CurrencyWallet\src\CurrencyWallet.Application\obj\Debug\net8.0\CurrencyWallet.Application.sourcelink.json

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UvYqLadQUt6nZu/grwRvjLrd0z0QIgxV7q3lxFq+HfM=",
+  "Source": "CurrencyWallet.Api",
+  "BasePath": "_content/CurrencyWallet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
