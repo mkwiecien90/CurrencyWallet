@@ -1,3 +1,30 @@
+Działanie API (DDD + CQRS):
+
+Endpoint do pobierania dostepnych walut z cache który aktualizuje co1h zapytanie do api NBP
+![image](https://github.com/user-attachments/assets/81f054c9-254d-4f57-b5eb-2aebb86f1dc9)
+
+Endpoint do tworzenia portfela, któremu nadajemy nazwę, jego startowa zawrtość to 0:
+![image](https://github.com/user-attachments/assets/15e516e6-3940-432d-b737-8c2b15bb50aa)
+
+Endpoint do pobierania portfolio portfeli wraz z ich zawartością:
+![image](https://github.com/user-attachments/assets/8265c415-a19f-426b-b9ca-77ab44911e7b)
+
+Endpoint do pobierania informacji dla pojedyńczego portfela:
+![image](https://github.com/user-attachments/assets/826a79e8-cfc5-4431-ad41-fadfa5deccec)
+
+Endpoint do usuwania danego portfela z portfolio:
+![image](https://github.com/user-attachments/assets/3436a13b-cfbe-47aa-8b67-54429673e061)
+
+Endpoint do wpłacania środków na portfel, w dostepnych walutach:
+![image](https://github.com/user-attachments/assets/35ed0212-e374-4096-90f9-d08b5980f206)
+
+Endpoint do wypłacania środków z portfela:
+![image](https://github.com/user-attachments/assets/84561d94-2bf9-477a-9c98-e2cd0429901f)
+
+Endpoint do konwersji z jednej waluty na inną w obrębie portfela z spośród dostępnych walut:
+![image](https://github.com/user-attachments/assets/b1dce333-8ca3-44c2-b8f1-a26c0f076c3a)
+
+
 Dodatkowe ulepszenia, które mozna zaplanowac
 
 1. Wdrożenie aplikacji w platformie Azure:
